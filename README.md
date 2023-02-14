@@ -1,8 +1,7 @@
 ### Hello  ! I'm Vitor D. Gomes
 - 💻 I'm currently working on Python
 - 🪴 I'm Studying  Java
-
-
+- 📫 How to reach me **vitordandreagomes@gmail.com**
 <div> 
 	<a href="https://beacons.ai/rafaballerini">
 	<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitorgomess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
