@@ -1,3 +1,5 @@
+
+
 ### Hello  ! I'm Vitor D. Gomes
 ##
 
@@ -6,12 +8,14 @@
 - 📫 How to reach me **vitordandreagomes@gmail.com**
 <div> 
 	<a href="https://beacons.ai/vitorDGomess">
-	<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitorgomess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-	<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgomess&layout=compact&langs_count=16&theme=dark"/>
+	<img height="150cm" src="https://github-readme-stats.vercel.app/api?username=vitorgomess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+	<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgomess&layout=compact&langs_count=16&theme=dark"/>
 	
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 
 
