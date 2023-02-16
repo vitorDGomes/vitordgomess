@@ -1,7 +1,4 @@
-
-
-### Hello  ! I'm Vitor D. Gomes
-##
+### <h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vitor D. Gomes</h1>
 
 - 💻 I'm currently working on Python
 - 🪴 I'm Studying  Java, HTML
