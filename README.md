@@ -6,8 +6,8 @@
 - 🪴 I'm Studying  Java, HTML
 - 📫 How to reach me **vitordandreagomes@gmail.com**
 
-Passionate about innovation and always looking to learn new technologies to provide creative and efficient solutions for projects. Working to create a great user experience whether on a mobile or desktop device.
-<div align="center">
+Passionate about innovation and always looking to learn new technologies to provide creative and efficient solutions for projects.
+<div align="center"
 
 <div>
 <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=vitorDGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -44,3 +44,4 @@ Passionate about innovation and always looking to learn new technologies to prov
   <a href="https://www.linkedin.com/in/vitor-dandrea-gomes-6b64a5247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
