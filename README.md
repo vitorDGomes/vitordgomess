@@ -1,21 +1,22 @@
-# Vitor D. Gomes
+<h1 align="center"> Vitor D. Gomes </h1>
 
-Front-end Developer
+<h1 align="center">Front-end Developer</h1>
 
 - 💻 I'm currently working on Python
 - 🪴 I'm Studying  Java, HTML
 - 📫 How to reach me **vitordandreagomes@gmail.com**
 
+Passionate about innovation and always looking to learn new technologies to provide creative and efficient solutions for projects. Working to create a great user experience whether on a mobile or desktop device.
+<div align="center">
 
 <div>
- <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitorDGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-	<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorDGomes&layout=compact&langs_count=16&theme=dark"/>
+<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=vitorDGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorDGomes&layout=compact&langs_count=16&theme=dark"/>	
 </div>
 <br/>
 
-
-Passionate about innovation and always looking to learn new technologies to provide creative and efficient solutions for projects. Working to create a great user experience whether on a mobile or desktop device.
 <div align="center">
+
 
 ##  🐍 Technologies 
 
